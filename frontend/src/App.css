@@ -23,7 +23,13 @@ body {
   color: #7b5cff;
   padding-left:20px;
 }
-
+.btn{
+  background-color: yellow;
+  color: black;
+  border-radius: 30%;
+  height: 40px;
+  font-size: 17px;
+}
 .navbar a {
   margin: 0 1rem;
   text-decoration: none;
@@ -108,7 +114,7 @@ body {
 }
 
 .hero-image {
-  width: 400px;
+  width: 100px;
   border-radius: 16px;
 }
 

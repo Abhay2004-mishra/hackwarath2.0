@@ -34,11 +34,7 @@ export default function Hero() {
           </div>
         </div>
 
-        <img
-          src="https://cdn.dribbble.com/userupload/11082043/file/original-5cb94a3a39a1f0fa27b21dc6b083da5d.png"
-          alt="hero"
-          className="hero-image"
-        />
+        <img src="ab2.jpg"></img>
       </div>
     </section>
   );

@@ -19,6 +19,10 @@ export default function HowItWorks() {
           <h3>Earn Rewards</h3>
           <p>Collect points, build streaks, and unlock achievements as you progress.</p>
         </div>
+        <div className="step">
+          <h3>Exercise</h3>
+          <p>hello </p>
+        </div>
       </div>
     </section>
   );
